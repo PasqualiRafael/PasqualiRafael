@@ -47,8 +47,7 @@
 <br>
 <div align=center> 
   <img width=390 align="center" src="https://github-readme-stats.vercel.app/api?username=pasqualirafael&show_icons=true&theme=react&border_radius=10&locale=en" alt="readme stats" />  
-  <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pasqualirafael&hide=HTML&langs_count8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&show_icons=true&locale=en" alt="top langs" /><br/>
-  [![GitHub Streak](https://streak-stats.demolab.com?user=PasqualiRafael&theme=react&border_radius=10&card_width=390)](https://git.io/streak-stats)
+  <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pasqualirafael&hide=HTML&langs_count8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&show_icons=true&locale=en" alt="top langs" /><br/>  
   <img width=390 align="center" src="https://streak-stats.demolab.com/?user=pasqualirafael&count_private=false&theme=react&border_radius=10" alt="streak stats"/>  
 </div>
 
