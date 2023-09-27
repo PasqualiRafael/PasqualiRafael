@@ -11,7 +11,7 @@
 <div align="center">
   ⚡ I'm corrently <b>open to work</b>
   
-  🔭 I’m currently working on <a href="https://www.artepasquali.com/" target="_blank">my portfolio</a>
+  🔭 I’m currently working on <a href="https://github.com/PasqualiRafael/ArtePasquali/blob/main/README.en.md" target="_blank">my portfolio</a>
   
   🌱 I’m currently learning <b>React, web components</b> 
   
